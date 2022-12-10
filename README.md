@@ -1,5 +1,7 @@
 # MVC-101-Presentation
 
+<p>A presentation on the fundamentals of Model-View-Controller.</p>
+
 ### Objectives
 
 - This presentation describes MVC, its elements and how it is used in the software development process.
